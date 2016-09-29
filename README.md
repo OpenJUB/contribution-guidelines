@@ -10,7 +10,7 @@ Git Workflow
     repository. This way you can get used to the typical workflow in the open
     source projects. Once we are reasonably confident in your skills, we can
     grant you push access to the main repository.
-- To learn about the git workflow, check out the [github-usage.md](https://github.com/OpenJUB/contribution-guidelines/blob/master/github_usage.md)
+- To learn about the git workflow, check out the [github-usage.md](https://github.com/OpenJUB/contribution-guidelines/blob/master/github_usage.md) (Everything before `Accepting and Merging a Pull Request`)
 
 
 
