@@ -20,7 +20,7 @@ Python
 - Follow Python Sytax guidelines a.k.a [PEP 8](https://www.python.org/dev/peps/pep-8)
 - Use [virtual environments](https://virtualenv.pypa.io/en/stable/) to isolate work environment:
     * Install virtualenv: `pip install virtualenv`
-    * Create a virtual environment in the root of your work directory `virtualenv env`
+    * Create a virtual environment in the root of your work directory: `virtualenv env`
     * Activate the environment: `source env/bin/activate`
 - Before committing check the code with `flake8`:
     * Install flake8: `pip install flake8`
